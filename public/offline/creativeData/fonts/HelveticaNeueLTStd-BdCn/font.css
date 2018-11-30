@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HelveticaNeueLT Std Cn';
+  src: url('HelveticaNeueLTStd-BdCn.eot'); /* IE9 Compat Modes */
+  src: url('HelveticaNeueLTStd-BdCn.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('HelveticaNeueLTStd-BdCn.woff') format('woff'), /* Modern Browsers */
+       url('HelveticaNeueLTStd-BdCn.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('HelveticaNeueLTStd-BdCn.svg#70f532a3d79daf0195a6fe576352b6cd') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

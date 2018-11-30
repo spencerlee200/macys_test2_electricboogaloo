@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HTF Didot M16';
+    src: url('HTFDidot-M16MediumItalic.eot');
+    src: url('HTFDidot-M16MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('HTFDidot-M16MediumItalic.woff2') format('woff2'),
+        url('HTFDidot-M16MediumItalic.woff') format('woff'),
+        url('HTFDidot-M16MediumItalic.ttf') format('truetype'),
+        url('HTFDidot-M16MediumItalic.svg#HTFDidot-M16MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
